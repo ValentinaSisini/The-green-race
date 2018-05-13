@@ -1,5 +1,5 @@
-# The-green-race
-A terminal based coding game in C. 
+# The-green-race Game
+A terminal based coding game in C language. 
 ## Stable version
 Stable and ready to play version of this game, can be downloaded [here](http://www.isisinipazzi.it/tuki/tuki1.html)
 ## Description
