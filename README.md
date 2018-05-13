@@ -2,7 +2,6 @@
 A terminal based coding game in C. 
 ## Stable version
 Stable and ready to play version of this game, can be downloaded [here](http://www.isisinipazzi.it/tuki/tuki1.html)
-[](tuki1.jpg)
 ## Description
 In this game a caterpillar (Giuli) and a toucan (Tuki) challenge each other to eat the most clovers. The clovers are in the grass along a labyrinth of which Giuli and Tuki do not know the map. The two players must write an algorithm to guide their character (Giuli or Tuki) in this race trying to eat more of the opponent's clovers
 ## Installing
