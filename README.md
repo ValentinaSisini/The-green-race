@@ -35,4 +35,4 @@ Type `./tuki -p` to play the game.
 Type just `./tuki` to see  more options.
 ## Licensing
 Tuki is protected under the laws of the GPL and other countries. Any redistribution, reselling or copying is strictly allowed. You should have received a copy of it with this package, if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
-![tuki1](tuki1.jpg)
+![tuki1](code.jpg)
