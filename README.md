@@ -2,7 +2,7 @@
 A terminal based coding game in C
 
 ## Description
-Hello and welcome to "Tuki and Giuli" coding game. Giuli has challenged Tuki to eat more flowers than him. Help Tuki by editing tuki_turn.c file with an algorithm that will make him win the race. Tuki and Giuli are in a labyrinth covered with clovers. Tuki has to eat as many clovers as he can before Giuli does it. You have to code a program that will guide Tuki's actions, which can be: change direction, take a step in the give direction, check the contents of the cell towards he is moving. What's hard about that? That Tuki does not have the map of the whole labyrinth
+In this game a caterpillar (Giuli) and a toucan (Tuki) challenge each other to eat the most clovers. The clovers are in the grass along a labyrinth of which Giuli and Tuki do not know the map. The two players must write an algorithm to guide their character (Giuli or Tuki) in this race trying to eat more of the opponent's clovers
 
 
 
