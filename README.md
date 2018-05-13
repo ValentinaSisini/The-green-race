@@ -3,7 +3,7 @@ A terminal based coding game in C.
 ## Stable version
 Stable and ready to play version of this game, can be downloaded [here](http://www.isisinipazzi.it/tuki/tuki1.html)
 ## Description
-In this game a caterpillar (Giuli) and a toucan (Tuki) challenge each other to eat the most clovers. The clovers are in the grass along a labyrinth of which Giuli and Tuki do not know the map. The two players must write an algorithm to guide their character (Giuli or Tuki) in this race trying to eat more of the opponent's clovers
+In this game a caterpillar (Giuli) and a toucan (Tuki) challenge each other to eat the most clovers. The clovers are in the grass along a labyrinth of which Giuli and Tuki do not know the map. The two players have to write an algorithm to guide their character (Giuli or Tuki) in this race trying to eat more of the opponent's clovers
 ## Installing
 No installation is required.
 ## How to play
@@ -35,4 +35,4 @@ Type `./tuki -p` to play the game.
 Type just `./tuki` to see  more options.
 ## Licensing
 Tuki is protected under the laws of the GPL and other countries. Any redistribution, reselling or copying is strictly allowed. You should have received a copy of it with this package, if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
-
+![tuki1](tuki1.jpg)
